@@ -1,7 +1,7 @@
 <!-- Social preview tip: add a 1200×630 banner under /docs/og.png and set it in repo settings -->
 <!-- Repo topics: e-governance, react, dotnet, oracle, rbac, supply-chain, performance -->
 
-# RAJ-SIMS Revamp – Developer Internship (E-Connect Solutions)
+# RAJ-SIMS ReactJS Developer Internship (E-Connect Solutions)
 
 [![Role](https://img.shields.io/badge/Role-Developer%20Intern-informational)](#)
 [![Stack](https://img.shields.io/badge/Frontend-React.js-blue)](#)
@@ -16,7 +16,7 @@ A production-grade revamp of **Rajasthan Supply & Inventory Management System (R
 
 ---
 
-## 🌟 Impact at a Glance
+## 🌟 Impact I Made During My Internship
 
 - Shipped **40+ tickets** across UI, validation, and backend integration in sprints.
 - Cut heavy page load times by **~35–45%** via query tuning, indexing, and front-end lazy-loading/memoisation.
@@ -31,7 +31,7 @@ A production-grade revamp of **Rajasthan Supply & Inventory Management System (R
 
 ---
 
-## 🧭 What the System Does (for context)
+## 🧭 What the System Does 
 
 RAJ-SIMS supports **end-to-end stock & supply** across multiple departments: procurement → warehousing → dispatch → MIS dashboards → audits. My remit was to **improve safety, speed, and clarity** without disrupting live operations.
 
@@ -46,7 +46,7 @@ RAJ-SIMS supports **end-to-end stock & supply** across multiple departments: pro
 
 ---
 
-## 🧩 Architecture
+## 🧩 Architecture of the System
 
 ```mermaid
 flowchart LR
@@ -66,7 +66,7 @@ flowchart LR
   B <-- audit logs --> C
 
 ```
-## ✅ Selected Tickets (mini STAR notes)
+## ✅ Selected Tickets
 
 <details>
 <summary><strong>1) Decimal precision guardrails for dispatch quantities</strong></summary>
@@ -110,7 +110,7 @@ flowchart LR
 
 ---
 
-## 📊 Highlights for Recruiters
+## 📊 Highlights
 
 - **Enterprise context:** High-stakes public-sector platform with compliance constraints.  
 - **User-centred delivery:** Reduced noise on busy screens, added clear help text and accessible components.  
